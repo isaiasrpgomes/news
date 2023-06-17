@@ -205,7 +205,7 @@
 @media screen and (max-width: 767px) {
    #info {
     gap: 20px;
-    padding: 10px;
+    padding: 15px;
    }
    
     #info, #footer {
