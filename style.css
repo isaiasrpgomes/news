@@ -211,8 +211,4 @@ body {
     gap: 20px;
     padding: 10px;
    }
-   
-    #info, #footer {
-        font-size: 13px;
-    }
 }
