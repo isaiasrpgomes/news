@@ -206,9 +206,14 @@ body {
     color: #d9d9d9;
 }
 
+
 @media screen and (max-width: 767px) {
    #info {
     gap: 20px;
     padding: 10px;
    }
+   
+    #info, #footer {
+        font-size: 14px;
+    }
 }
